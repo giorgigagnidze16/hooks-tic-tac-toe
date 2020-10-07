@@ -1,0 +1,14 @@
+.playButton{
+    border-style: solid;
+    text-align: center;
+    border-radius: 3px;
+    border-width: 1px;
+    width: 80px;
+    height: 80px;
+    outline: none;
+}
+.playButton:hover {
+    cursor: pointer;
+    background: green;
+    color: white;
+}
